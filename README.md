@@ -16,7 +16,7 @@ Not much, it runs:
 * ``apt-get autoremove``
 * ``docker system prune --all --force``
 
-This script is used as *cleanup* step on a somewhat small and power (as in hardware and disk space)lacking sandbox, before ``apt updgrade``.
+This script is used as *cleanup* step on a somewhat small and power (as in hardware and disk space)lacking sandbox, before ``apt upgrade``.
 
 There is the possiblity that I will combine all these steps into one
 proper *update script* in the future.
