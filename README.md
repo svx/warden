@@ -7,7 +7,7 @@ A *dirty wrapper* around ``apt`` and ``docker`` commands.
 
 **Be aware** This script will remove **all** unused Docker Volumes, Docker Images, Docker Networks and so on.
 
-**Be sure that you know what you are doing! **
+**Be sure that you know what you are doing!**
 
 ## What is does
 
