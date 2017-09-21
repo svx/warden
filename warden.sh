@@ -25,7 +25,7 @@ error_exit() {
 # Run apt-get autoremove
 apt_auto() {
     echo -en "$COL_YELLOW Running apt-get autoremove ...$COL_RESET\n"
-    apt-get autoremove -y
+    apt autoremove -y
 }
 # Docker prune
 docker_prune() {
